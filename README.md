@@ -1,9 +1,8 @@
 # Ex.No:04   FIT ARMA MODEL FOR TIME SERIES
-# Date: 
-# Name: H.Berjin Shabeck
-# Reg no: 212222240018
 
-
+## Name:H.Berjin Shabeck
+## Reg no:212222240018
+## Date:04/09/2024
 
 ### AIM:
 To implement ARMA model in python.
